@@ -1,0 +1,22 @@
+{
+  "name": "@sbq/sbq-typescript-models",
+  "version": "0.8.1",
+  "description": "",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/sbquantum2/sbq-typescript-models"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "main": "./",
+  "devDependencies": {
+    "typescript": "~4.3.5",
+    "tslint": "6.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "~4.3.5"
+  }
+}
